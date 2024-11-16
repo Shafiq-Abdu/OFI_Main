@@ -10,19 +10,19 @@ This repository contains the code for the research project titled "Hybrid VAR-FN
 
 The repository is organized into the following directories and files:
 
-### 1. **data_real&synthetic/**
+### 1. **data_real&synthetic**
    - Contains both real and synthetic data used for training and testing the model.
    - The data is used in the provided code for model development and evaluation.
 
-### 2. **hybrid_model_folder/**
+### 2. **hybrid_model_folder**
    - This is the main folder containing:
      - Complete Jupyter notebooks for the hybrid VAR-FNN model.
      - Output CSV files and generated plots.
 
-### 3. **neural_network_only/**
+### 3. **neural_network_only**
    - Contains code and output files specific to the Feedforward Neural Network (FNN) model.
 
-### 4. **sensitivity_analysis_heatmap_results/**
+### 4. **sensitivity_analysis_heatmap_results**
    - Contains:
      - Parameter sensitivity results for training and testing data.
      - A CSV file named `sensitivity_analysis_result.csv`, which includes the results of all possible parameter configurations.
