@@ -41,7 +41,7 @@ To clone and use this repository, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/OFI_Main.git
+   git clone https://github.com/Shafiq-Abdu/OFI_Main.git
 
 
 ## Requirements
@@ -50,8 +50,5 @@ To install the necessary dependencies, run:
 
 ```bash
 pip install -r requirements.txt
-
-
-
 
 
